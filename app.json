@@ -1,7 +1,7 @@
 {
   "id": "codex-comic-reader",
-  "recipe": "codex-comic-reader-v1",
-  "version": "2.8.1.1",
+  "recipe": "codex-comic-reader-v2",
+  "version": "2.8.1.2",
   "publisher": "Lu Yifei",
   "help": "https://github.com/LuYifei-TOS-Apps/tos-codex-comic-reader#readme",
   "official": "https://github.com/ajslater/codex",
@@ -13,21 +13,21 @@
       "auth": "AJ Slater and contributors",
       "descript": "Scan comic archives and browse or read your collection on your NAS.",
       "important": "Use port 19202. Retrieve the generated administrator password and add a library from the admin panel.",
-      "release_note": "Initial TOS package for Codex Comic Reader 2.8.1."
+      "release_note": "Initialize application data without root privileges."
     },
     "zh-cn": {
       "name": "Codex 漫画阅读器",
       "auth": "AJ Slater 与贡献者",
       "descript": "索引漫画压缩包，在 NAS 上浏览和阅读漫画收藏。",
       "important": "请使用 19202 端口，读取首次生成的管理员密码，再从管理面板添加书库。",
-      "release_note": "首次发布 Codex 漫画阅读器 2.8.1 的 TOS 安装包。"
+      "release_note": "以非 root 身份初始化应用数据。"
     },
     "zh-hk": {
       "name": "Codex 漫畫閱讀器",
       "auth": "AJ Slater 與貢獻者",
       "descript": "索引漫畫壓縮檔，在 NAS 上瀏覽和閱讀漫畫收藏。",
       "important": "請使用 19202 連接埠，讀取首次產生的管理員密碼，再從管理面板加入書庫。",
-      "release_note": "首次發佈 Codex 漫畫閱讀器 2.8.1 的 TOS 安裝套件。"
+      "release_note": "以非 root 身份初始化應用資料。"
     }
   }
 }
